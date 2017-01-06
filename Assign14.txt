@@ -1,0 +1,2 @@
+D. Prints : Parent's method2()
+ Child's method1()
